@@ -1,0 +1,20 @@
+body{
+background-image: url("../images/bg.jpeg");
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.center{
+    width: 30%;
+    
+    margin: 5% auto;
+}
+.border{   
+    background-color: aliceblue;
+    padding: 9%;
+    border: 2px solid yellow;
+    border-radius: 2%;
+}
+.error{
+    color: red;
+}
